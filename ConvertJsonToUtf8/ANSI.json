@@ -1,0 +1,22 @@
+{
+    "Id": "{0A1CF2A2-6F60-40EC-9A78-D28AF7C2D381}",
+    "VsId": "{70BB948B-9BCD-4092-BC98-988D64678CD9}",
+    "DateCreated": "2018-09-05T13:42:03+02:00",
+    "Creator": "PVAST",
+    "DateLastModified": "2022-04-02T13:53:08+02:00",
+    "LastModifier": "NTSF0DIGP",
+    "DocumentTitle": "Mitarbeitergespräch/Beurteilung/Ziele",
+    "AKTEN_ID": "1016373",
+    "Kategorie": "pa_pe_mitarbeitergespraech",
+    "Aufbewahrungsfrist": null,
+    "Loeschdatum": null,
+    "Dokumentendatum": "2018-03-02T00:00:00+01:00",
+    "Verschickbar": false,
+    "Bemerkung": "2018",
+    "Content": [
+        {
+            "File": "Document 1.pdf",
+            "MD5": "7668ff46212a4e3e73f0d934359b2cdb"
+        }
+    ]
+}
